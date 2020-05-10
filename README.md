@@ -34,3 +34,7 @@ Information about tools available to work with Factom blockchain, and 2nd layer 
 | 3 | Python    | Canonical Ledgers|Prod| [fat-py](https://github.com/samuelvanderwaal/fat-py/)     | 0.1.2 | | |
 | 4 | Rust      | Kompendium       |WIP | [![Build Status](https://travis-ci.com/kompendium-llc/fat-rust.svg?branch=master)](https://travis-ci.com/kompendium-llc/fat-rust)|0.1 | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kompendium-llc/factom-php/blob/master/LICENSE) | Unknown
 | 5 | Haskell   | Kompendium       |WIP | [![Build Status](https://travis-ci.com/kompendium-llc/fat-haskell.svg?branch=master)](https://travis-ci.com/kompendium-llc/fat-haskell)| 0.1 | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kompendium-llc/factom-php/blob/master/LICENSE) | Unknown
+
+# Learning resources
+- [Accessing the Factom blockchain from different programming languages](https://medium.com/kompendium-developments/accessing-factom-blockchain-from-different-programming-languages-7f09030efe16)
+- [Building simple blockchain game with Factom](https://medium.com/kompendium-developments/accessing-factom-blockchain-from-different-programming-languages-7f09030efe16)
