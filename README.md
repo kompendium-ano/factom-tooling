@@ -49,8 +49,8 @@ Information about tools available to work with Factom blockchain, and 2nd layer 
 
 | #  | Language  | Developer        |State       | Repository | Version | License | Coverage |
 |----|-----------|------------------|------------|------------|---------|---------|----------|
-| 1  | Rust      | Kompendium       | REF, WIP   | [factom-vc-rust](https://github.com/kompendium-ano/factom-vc-rust)| | | |
-| 1  | Haskell   | Kompendium       | WIP        | [factom-vc-haskell](https://github.com/kompendium-ano/factom-vc-haskell)  | | | |
+| 1  | Rust      | Kompendium       | REF, WIP   | [factom-vc-rust](https://github.com/kompendium-ano/factom-vc-rust)| 0.1 | MIT | |
+| 1  | Haskell   | Kompendium       | WIP        | [factom-vc-haskell](https://github.com/kompendium-ano/factom-vc-haskell) | 0.1 | MIT | |
 
 ## Learning resources
 
