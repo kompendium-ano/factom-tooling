@@ -33,8 +33,8 @@ Information about tools available to work with Factom blockchain, and 2nd layer 
 | 1 | Go        | PegNet community |Ref   | | | | |
 | 2 | JavaScript| DBGrow           |Prod | [fat-js](https://github.com/Factom-Asset-Tokens/fat-js/) | 1.3.0 | | |
 | 3 | Python    | Canonical Ledgers|Prod| [fat-py](https://github.com/samuelvanderwaal/fat-py/)     | 0.1.2 | | |
-| 4 | Rust      | Kompendium       |WIP | [![Build Status](https://travis-ci.com/kompendium-ano/fat-rust.svg?branch=master)](https://travis-ci.com/kompendium-ano/fat-rust)|0.1 | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kompendium-ano/factom-php/blob/master/LICENSE) | Unknown
-| 5 | Haskell   | Kompendium       |WIP | [![Build Status](https://travis-ci.com/kompendium-ano/fat-haskell.svg?branch=master)](https://travis-ci.com/kompendium-ano/fat-haskell)| 0.1 | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kompendium-ano/factom-php/blob/master/LICENSE) | Unknown
+| 4 | Rust      | Kompendium       |Prod | [![Build Status](https://travis-ci.com/kompendium-ano/fat-rust.svg?branch=master)](https://travis-ci.com/kompendium-ano/fat-rust)|0.1 | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kompendium-ano/factom-php/blob/master/LICENSE) | Unknown
+| 5 | Haskell   | Kompendium       |Prod | [![Build Status](https://travis-ci.com/kompendium-ano/fat-haskell.svg?branch=master)](https://travis-ci.com/kompendium-ano/fat-haskell)| 0.1 | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kompendium-ano/factom-php/blob/master/LICENSE) | Unknown
 
 ## DiDs
 
