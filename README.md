@@ -41,16 +41,17 @@ Information about tools available to work with Factom blockchain, and 2nd layer 
 | # | Language  | Developer        |State       | Repository | Version | License | Coverage |
 ----|-----------|------------------|------------|------------|---------|---------|----------|
 | 1 | Python    | Factomatic       | REF        | [py-factom-did](https://github.com/factomatic/py-factom-did) | | | |
+| 1 | Go        | De Facto         | Prod       | [go-factom-did](https://github.com/DeFacto-Team/go-factom-did) | | | |
 | 2 | Haskell   | Kompendium       | WIP        | [factom-did-haskell](https://github.com/kompendium-ano/factom-did-haskell) | | | |
 | 3 | Haskell   | Kompendium       | WIP        | [factom-did-rust](https://github.com/kompendium-ano/factom-did-rust) | | | |
 
 
 ## VCs
 
-| # | Language  | Developer        |State       | Repository | Version | License | Coverage |
+| #  | Language  | Developer        |State       | Repository | Version | License | Coverage |
 |----|-----------|------------------|------------|------------|---------|---------|----------|
-
-N/A
+| 1  | Rust      | Kompendium       | REF, WIP   | [factom-vc-rust](https://github.com/kompendium-ano/factom-vc-rust)| | | |
+| 1  | Haskell   | Kompendium       | WIP        | [factom-vc-haskell](https://github.com/kompendium-ano/factom-vc-haskell)  | | | |
 
 ## Learning resources
 
