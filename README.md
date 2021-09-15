@@ -42,7 +42,7 @@ Information about tools available to work with Factom blockchain, and 2nd layer 
 | 1 | Python    | Factomatic       | REF        | [py-factom-did](https://github.com/factomatic/py-factom-did) | | | |
 | 2 | Go        | De Facto         | Prod       | [go-factom-did](https://github.com/DeFacto-Team/go-factom-did) | 0.5.0a | MIT | |
 | 3 | Haskell   | Kompendium       | WIP        | [factom-did-haskell](https://github.com/kompendium-ano/factom-did-haskell) | 0.4 | MIT | |
-| 4 | Rust.     | Kompendium       | Prod       | [factom-did-rust](https://github.com/kompendium-ano/factom-did-rust) | 0.4 | MIT | |
+| 4 | Rust      | Kompendium       | Prod       | [factom-did-rust](https://github.com/kompendium-ano/factom-did-rust) | 0.4 | MIT | |
 
 
 ## VCs
@@ -55,4 +55,3 @@ Information about tools available to work with Factom blockchain, and 2nd layer 
 ## Learning resources
 
 - [Accessing the Factom blockchain from different programming languages](https://medium.com/kompendium-developments/accessing-factom-blockchain-from-different-programming-languages-7f09030efe16)
-- [Building simple blockchain game with Factom](https://medium.com/kompendium-developments/accessing-factom-blockchain-from-different-programming-languages-7f09030efe16)
